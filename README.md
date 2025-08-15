@@ -207,4 +207,4 @@ If you have any questions or need help, please open an issue on GitHub.
 
 ---
 
-Made with ❤️ by [Harsha430](https://github.com/Harsha430)
+Made with ❤️ by [Manohar Abburi](https://github.com/manoharabburi)
